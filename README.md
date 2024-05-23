@@ -4,7 +4,16 @@
 
 Ramble is an AI journal and self-development conversational coach. It functions essentially as a friend you can talk to about your day, including your activities, setbacks, feelings, etc. Ramble then analyzes your conversations to provide daily motivation and helpful information to manage your day effectively.
 
-**Functional and Non-Functional Requirements**
+**Functional Requirements**
+- The systems should be able to have a conversation wtih the user
+- The system should be able to provide user with insights into maximizing their productivity 
+- The system should be able to provide users with ways to do time and energy management 
+- The system should provide users with motivation to go throguh their day 
+
+**Non-Functional Requirements**
+- The system should be highly available 
+- The system should be reliable
+- The systems analystics should be accurate  
 
 * [To be defined by you]
 
